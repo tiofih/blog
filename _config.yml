@@ -1,1 +1,11 @@
 theme: minima
+title: tiofih
+author: Filipe "tiofih" Pinato Aguiar
+linkedin_username: fpinatoaguiar
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
